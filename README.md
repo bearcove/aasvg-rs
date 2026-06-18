@@ -1,5 +1,11 @@
 # aasvg-rs
 
+## Moved to Dodeca
+
+This project has been absorbed into [Dodeca](https://github.com/bearcove/dodeca).
+Future development happens in Dodeca's `libs/aasvg` tree; this repository is kept
+for history and crate metadata.
+
 [![Crates.io](https://img.shields.io/crates/v/aasvg.svg)](https://crates.io/crates/aasvg)
 [![Documentation](https://docs.rs/aasvg/badge.svg)](https://docs.rs/aasvg)
 [![License](https://img.shields.io/crates/l/aasvg.svg)](LICENSE)
